@@ -1,0 +1,170 @@
+---
+title: "The Role of Colonial Knowledge in Building the Arab Gulf’s Migration Regime"
+format:
+  revealjs: 
+    theme: dark
+#    footer: Religious Dewdrops
+    self-contained: true
+    smaller: true
+    auto-stretch: true
+    transition: slide
+    background-transition: fade
+---
+
+## Overarching Summary
+
+
+. . .
+
+Colonialists would often segment colonised populations into racialised categories such that it served a purpose for the colonialists.   
+
+. . .
+
+As an example, the British racialised people in the Arabian peninsula: Arabs were simple-minded, apolitical, racially pure people who belonged there; South Asians were troublesome, at times cunning, and poor outsiders.  
+
+. . .
+
+In racialising as such, the British laid the foundations for a racialised nation-state. Such a state needed its borders to be defined along racial lines to stay true to its definition.  
+
+. . .
+
+In doing so, the British enacted and enforced a racialised migration regime, allowing them to control most of trade and people’s movement.  
+
+## Overall Summary
+
+- **Colonialists assigned colonised populations into racialised categories that served a bigger purpose for the colonialist**  
+- Before British involvement in its affairs, the Arabian peninsula had loose borders and fluid movement of non-Arabs  
+- The British felt very uneasy with the absence of borders and free movement of people in the Arabian peninsula  
+- Thus, the British racialised Arabs as being simple-minded, unruly people while South Asians were contrasted as cunning, still unruly people, both needing the civilised British  
+- Promulgating this racialised identity and nationalism for Arabs, in the colonial imagination, would inevitably lead to a racialised nation state that does not have loose borders  
+- South Asians would find it hard to shed their racialised identities, except if they were working directly for the British Empire  
+
+## Colonialists assigned colonised populations into racialised categories that served a bigger purpose for the colonialist {.scrollable}
+
+::: {.incremental}
+
+- Decolonial scholars have understood knowledge produced by empires as characteristic of coloniality.  
+- Such knowledge produced various classifications, including racial.  
+- These racial classifications were not reflective of an existing reality, but rather productive of colonialism.  
+- Decolonial scholars have developed a theoretical framework to interrogate such colonial racialisations instead of taking them for granted.  
+- Some racial categories came to be associated with labour, the fuel for global capitalist market.  
+- As long as these racial categories served a purpose, they were kept intact.
+
+:::
+
+## Overall Summary
+
+- Colonialists assigned colonised populations into racialised categories that served a bigger purpose for the colonialist  
+- **Before British involvement in its affairs, the Arabian peninsula had loose borders and fluid movement of non-Arabs**  
+- The British felt very uneasy with the absence of borders and free movement of people in the Arabian peninsula  
+- Thus, the British racialised Arabs as being simple-minded, unruly people while South Asians were contrasted as cunning, still unruly people, both needing the civilised British  
+- Promulgating this racialised identity and nationalism for Arabs, in the colonial imagination, would inevitably lead to a racialised nation state that does not have loose borders  
+- South Asians would find it hard to shed their racialised identities, except if they were working directly for the British Empire  
+
+## Before British involvement in its affairs, the Arabian peninsula had loose borders and fluid movement of non-Arabs
+
+::: {.incremental}
+- Arab tribes did not enforce any borders in the Arabian peninsula such that they would have restricted the movement of people.  
+- Non-Arabs, particularly South Asians, would take up a variety of jobs in the peninsula, carry out trade freely therein, entering and leaving as needed.  
+
+:::
+
+## Overall Summary
+
+- Colonialists assigned colonised populations into racialised categories that served a bigger purpose for the colonialist  
+- Before British involvement in its affairs, the Arabian peninsula had loose borders and fluid movement of non-Arabs  
+- **The British felt very uneasy with the absence of borders and free movement of people in the Arabian peninsula**  
+- Thus, the British racialised Arabs as being simple-minded, unruly people while South Asians were contrasted as cunning, still unruly people, both needing the civilised British  
+- Promulgating this racialised identity and nationalism for Arabs, in the colonial imagination, would inevitably lead to a racialised nation state that does not have loose borders  
+- South Asians would find it hard to shed their racialised identities, except if they were working directly for the British Empire  
+
+## The British felt very uneasy with the absence of borders and free movement of people in the Arabian peninsula
+
+::: {.incremental}
+
+- The British mistook this lack of interest by Arab tribes (in maintaining borders and controlling movement) as their lack of maturity and naivety.  
+- They failed to appreciate that such borders were actually not needed by the tribes.  
+- In reality, the British were uneasy with the fluid borders as it prevented them from controlling trade and movement.  
+:::
+
+## Overall Summary
+
+- Colonialists assigned colonised populations into racialised categories that served a bigger purpose for the colonialist  
+- Before British involvement in its affairs, the Arabian peninsula had loose borders and fluid movement of non-Arabs  
+- The British felt very uneasy with the absence of borders and free movement of people in the Arabian peninsula  
+- **Thus, the British racialised Arabs as being simple-minded, unruly people while South Asians were contrasted as cunning, still unruly people, both needing the civilised British**  
+- Promulgating this racialised identity and nationalism for Arabs, in the colonial imagination, would inevitably lead to a racialised nation state that does not have loose borders  
+- South Asians would find it hard to shed their racialised identities, except if they were working directly for the British Empire  
+
+## Thus, the British racialised Arabs as being simple-minded, unruly people while South Asians were contrasted as cunning, still unruly people, both needing the civilised British {.scrollable}
+
+::: {.incremental}
+
+- The colonialists were fascinated by the Arabs (especially Bedouins), and imagined/racialised them to be:  
+   - Fossilised and detached from the civilised world  
+   - Apolitical, simple-minded, and unruly people whose definition of a nation is in its infancy  
+   - Racially pure as they have been untouched by external influence (particularly Bedouins, in contrast to Urban Arabs)  
+   - Incapable of any “change” in accordance with modern states  
+- On the other hand, South Asians were contrasted against the Arabs, and were racialised to be:  
+   - Outsiders  
+   - A temporary, expendable, and good-for-use labour  
+   - Troublesome and prone to political activism  
+- Given the naive Arab and the troublesome South Asian, the British presence in the peninsula was justified in order to help guide the Arabs towards a mature nation state.
+::: 
+
+## Overall Summary
+
+- Colonialists assigned colonised populations into racialised categories that served a bigger purpose for the colonialist  
+- Before British involvement in its affairs, the Arabian peninsula had loose borders and fluid movement of non-Arabs  
+- The British felt very uneasy with the absence of borders and free movement of people in the Arabian peninsula  
+- Thus, the British racialised Arabs as being simple-minded, unruly people while South Asians were contrasted as cunning, still unruly people, both needing the civilised British  
+- **Promulgating this racialised identity and nationalism for Arabs, in the colonial imagination, would inevitably lead to a racialised nation state that does not have loose borders**  
+- South Asians would find it hard to shed their racialised identities, except if they were working directly for the British Empire 
+
+## Promulgating this racialised identity and nationalism for Arabs, in the colonial imagination, would inevitably lead to a racialised nation state that does not have loose borders {.scrollable}
+
+::: {.incremental}
+
+- The British pushed for racialised nationalism, in hopes that it would lead to more defined borders.  
+- Such nationalism culminated in the seeking of a racialised nation state.  
+- This nation state would require an exclusionary migration regime to maintain its racial meaning.  
+- Thus, territorial rights of the Arabs were manufactured by the colonialists.  
+- The British viewed themselves as protecting the pure Arab from the impure external influences.  
+- Policies were enacted and enforced for a migration regime which ensured any outsiders were only permitted to work for a fixed term, to be swiftly deported afterwards.  
+- This enabled the British to control any free movement and trade, in collaboration with Sheikhdoms who would uphold such migration policies.  
+:::
+
+## Overall Summary
+
+- Colonialists assigned colonised populations into racialised categories that served a bigger purpose for the colonialist  
+- Before British involvement in its affairs, the Arabian peninsula had loose borders and fluid movement of non-Arabs  
+- The British felt very uneasy with the absence of borders and free movement of people in the Arabian peninsula  
+- Thus, the British racialised Arabs as being simple-minded, unruly people while South Asians were contrasted as cunning, still unruly people, both needing the civilised British  
+- Promulgating this racialised identity and nationalism for Arabs, in the colonial imagination, would inevitably lead to a racialised nation state that does not have loose borders  
+- **South Asians would find it hard to shed their racialised identities, except if they were working directly for the British Empire**   
+
+
+## South Asians would find it hard to shed their racialised identities, except if they were working directly for the British Empire {.scrollable}
+
+::: {.incremental}
+
+- Colonialist racialisation always rests on a purpose, and varies by different groups, depending upon their position within the Empire and how conducive they are to its purposes.  
+- South Asians were racialised in a way that they could still fulfill the needs of oil companies working in the Arabian peninsula: cheap and temporary labour.  
+- They were not to be kept idle for long in the Gulf, due to perceived risk of inciting political unrest.  
+- Thus, South Asians came to embody only 1 function in the Gulf: that of labourers.  
+- However, they were not consistently subjected to such racialisation.  
+   - For example, South Asians working in the colonial administration, such as clerks, could shed the racialisation without problems, as they were directly serving the Empire’s purposes.  
+- First hand accounts of South Asian labourers who worked in the Gulf detail the exploitative practices they faced, and problematise their racialisation. For example:  
+   - Raghu’s letter in 1948
+   - Indian Employees Association’s letter in 1948
+   - Hazoor Ahmed Khan’s letter in the Sind Observer in 1949
+:::
+
+## End
+
+
+. . .
+
+It is these colonial foundations that see the racial marginalisation of South Asians in contemporary times, and it is because of these foundations that Gulf states can continue to represent themselves as inheritors of a racially pure land (which was actually historically hybrid and fluid).
+
+[Original article](https://www.tandfonline.com/doi/full/10.1080/25765949.2022.2151079)
