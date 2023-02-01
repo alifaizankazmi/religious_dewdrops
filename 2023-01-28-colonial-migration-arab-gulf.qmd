@@ -9,6 +9,10 @@ format:
     auto-stretch: true
     transition: slide
     background-transition: fade
+categories:
+  - colonial
+  - research
+  - migration
 ---
 
 ## Overarching Summary
@@ -165,6 +169,10 @@ In doing so, the British enacted and enforced a racialised migration regime, all
 
 . . .
 
-It is these colonial foundations that see the racial marginalisation of South Asians in contemporary times, and it is because of these foundations that Gulf states can continue to represent themselves as inheritors of a racially pure land (which was actually historically hybrid and fluid).
+It is these colonial foundations that see the racial marginalisation of South Asians in contemporary times, and it is because of these foundations that Gulf states can continue to represent themselves as inheritors of a racially pure land (which was actually historically hybrid and fluid).  
 
-[Original article](https://www.tandfonline.com/doi/full/10.1080/25765949.2022.2151079)
+. . . 
+
+[Original article by Hessa Alnuaimi](https://www.tandfonline.com/doi/full/10.1080/25765949.2022.2151079)  
+
+[Return home](www.religiousdewdrops.com)

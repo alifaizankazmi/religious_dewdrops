@@ -9,6 +9,9 @@ format:
     auto-stretch: true
     transition: slide
     background-transition: fade
+categories:
+  - jurisprudence
+  - women rights
 ---
 
 ## Overarching Summary
@@ -147,7 +150,10 @@ Isrā‘īliyāt based justification: woman was created from man hence is inferi
 
 . . . 
 
-  
-::: {.r-fit-text}  
 The (preceding) comparison of these Torāhic accounts alongside Qurān’ic scripture highlights the shortcomings of many exegetes and transmitters of ahādīth...
-:::
+
+. . .
+
+The original article can be found on [Shi'ism and Islamic history blog](https://shiismandislamichistory.wordpress.com/2021/03/14/israiliyats-fiqhi-impact-case-study-on-womens-ah%cc%afkam/).    
+
+[Return home](www.religiousdewdrops.com)

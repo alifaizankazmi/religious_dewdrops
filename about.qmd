@@ -1,5 +1,23 @@
 ---
 title: "About"
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/R_Dewdrops
 ---
 
-About this site
+بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
+
+## َّحْمٰنِ الرَّحِيْمِ 
+
+Our objective, with Religious dewdrops, is to distill complex religious, sociological, and historical research articles into succinct, memorable narratives.  
+
+We hope to make knowledge more accessible and understandable for everyone (especially those of us leading busy lives), while helping writers reach a wider audience too, God willing.  
+
+We believe that religious, sociological, and historical knowledge has the potential to better our lives and our society as a whole.  
+
+We ask God to help us in this endeavour.  
+
+
